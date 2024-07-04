@@ -1,0 +1,5 @@
+sklearn
+tqdm
+boto3
+torch==1.8.1+cu101
+torchvision==0.9.1+cu101
